@@ -104,13 +104,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Under Kappa"
+  avatar           : 'assets/images/logo_sirk.png' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Podcasten som tar superkrefter på alvor."
+  location         : "Oslo, Norge"
+  email            : post@underkappa.no
   links:
-    - label: "Email"
+    - label: "Epost"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
@@ -121,13 +121,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/underkappa"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/underkappa/"
 
 # Site Footer
 footer:

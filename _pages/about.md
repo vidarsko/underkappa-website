@@ -2,6 +2,8 @@
 layout: single # Or a different layout that Minimal Mistakes provides 
 title: Om oss
 permalink: /om/ 
+classes: wide
+author_profile: true
 ---
 
 [Vidar Skogvoll](http://skogvoll.com/) og [Even S. Garvang](https://www.mn.uio.no/ibv/personer/vit/evengar/index.html) er begge ansatte ved universitetet i Oslo. I tillegg til doktorgradsarbeidet er Even musiker, som bl.a. har laget introlåta til denne podcasten, og er vokalist/gitarist i biologibandet "Overgump". Vidar er førstelektor i fysikk og lefler litt med teater på si. Begge har gjestet flere andre radio og formidlingspodcaster, blant annet NRKs "Abels tårn," og Andreas Wahls "Jøss‽"

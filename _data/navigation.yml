@@ -1,11 +1,7 @@
 # main links
 main:
-  - title: "Alle episodene"
-    url: "https://underkappa.buzzsprout.com/"
   - title: "Om oss"
     url: "/om/"
-  - title: "Siste episode"
-    url: "/siste-episode/"
   # - title: "Rangering"
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

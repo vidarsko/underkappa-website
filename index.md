@@ -18,20 +18,20 @@ feature_row:
     url: "https://underkappa.buzzsprout.com/"
     btn_class: "btn--primary"
     btn_label: "Abonner på podcasten"
-  - image_path: /assets/images/superherofight.png
+  - image_path: /assets/images/rangering.png
     alt: "fully responsive"
     title: "Rangering"
     excerpt: "Ingen vitenskapelig podcast uten kvantisering og rangering. Vi gir superkreftene en score på 0-20 i fem kategorier (KAPPE: Kul, Atypisk, Plausibel, Praktisk og Ekstraordinær), og rangerer dem mot hverandre. "
     url: "/rangering/"
     btn_class: "btn--primary"
     btn_label: "Se rangering"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "Under Kappa i media"
-    excerpt: "Se hvor Under Kappa har vært omtalt i media."
+  - image_path: /assets/images/instagram.jpg
+    alt: "Instagram"
+    title: "Følg oss på instagram!"
+    excerpt: "Her poster vi bilder av hva vi lager og hvor i media vi dukker opp."
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Følg oss"      
 ---
 
 {% include feature_row %}

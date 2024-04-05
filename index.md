@@ -8,8 +8,8 @@ header:
   actions:
     - label: "<i class='fas fa-play'></i> Hør siste episode"
       url: "/siste-episode/"
-  text_color: "#b50202"
-excerpt: >
+  # text_color: "white"
+excerpt: >  
   Podcasten som tar superkrefter på alvor. <br />
 feature_row:
   - image_path: /assets/images/spillere.jpg

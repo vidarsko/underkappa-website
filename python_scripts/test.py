@@ -14,7 +14,7 @@ df_melted = df.melt(id_vars=["Superhelt"], value_vars=["Kul", "Atypisk", "Plausi
 
 # Creating the stacked bar chart
 fig = px.bar(df_melted, y="Superhelt", x="Poeng", color="Kategori", orientation="h",
-             labels={"Superhelt": "", "Poeng": "Poeng"}, 
+             labels={"Superhelt": "Superhelt", "Poeng": "Poeng"}, 
              height=600, text="Poeng")
 
 # Improve the layout
@@ -22,6 +22,15 @@ fig.update_layout(yaxis_categoryorder='total ascending', # This sorts the bars b
                     yaxis_title="", margin=dict(l=10))  
 fig.update_traces(texttemplate='%{text}', textposition='inside', textangle=0)
 
+fig.update_layout(
+    legend=dict(
+        orientation="h",
+        yanchor="bottom",
+        y=1.02,  # Places the legend above the plot
+        xanchor="center",
+        x=0.5  # Centers the legend
+    )
+)
 
 number_of_superheroes = df["Superhelt"].nunique()
 

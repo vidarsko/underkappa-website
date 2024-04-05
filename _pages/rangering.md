@@ -26,5 +26,5 @@ author_profile: true
 Totalen, summen, den ultimate scoren! KAPPE står for Kul, Atypisk, Plausibel, Praktisk og Ekstraordinær. De fem kriteriene som en superhelt må treffe for å være den ultimate.
 (I episode 1-6 manglet kategorien "Atypisk." Poengene som ble gitt i disse episodene har blitt skalert ned til 0-20).
 
-<iframe src="https://vidarsko.github.io/underkappa-website/assets/charts/total.html" width="100%" height="700" frameborder="0"></iframe>
+<iframe src="/assets/charts/total.html" width="100%" height="700" frameborder="0"></iframe>
 

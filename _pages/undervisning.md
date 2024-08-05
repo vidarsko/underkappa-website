@@ -4,6 +4,10 @@ title: Undervisning
 permalink: /undervisning/ 
 classes: wide
 author_profile: true
+toc: true
+toc_label: "Contents"
+toc_sticky: true
+toc_icon: "list"
 ---
 
 # Bruk Under Kappa i undervisningen

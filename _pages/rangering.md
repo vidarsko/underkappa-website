@@ -18,6 +18,11 @@ author_profile: true
     left: 0;
     width: 100%;
 }
+.fixed-height-iframe iframe {
+    width: 100%;
+    height: 2000px; /* Set the desired height */
+    border: none; /* Optional: Remove border */
+}
 </style>
 
 ## Total

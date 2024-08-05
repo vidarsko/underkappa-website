@@ -1,3 +1,11 @@
+---
+layout: single # Or a different layout that Minimal Mistakes provides 
+title: Undervisning
+permalink: /undervisning/ 
+classes: wide
+author_profile: true
+---
+
 # Bruk Under Kappa i undervisningen
 
 Ingenting gjør oss gladere enn å høre at superhelter og/eller podcasten vår blir brukt i undervisning.

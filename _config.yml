@@ -107,7 +107,7 @@ author:
   name             : "Under Kappa"
   avatar           : 'assets/images/logo_sirk.png' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Podcasten som tar superkrefter på alvor."
-  location         : "Realfagsbiblioteket Blindern, Oslo, Norge"
+  location         : "Oslo"
   email            : post@underkappa.no
   links:
     - label: "Spotify"

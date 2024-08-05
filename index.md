@@ -19,13 +19,13 @@ feature_row:
     url: "https://www.instagram.com/underkappa"
     btn_class: "btn--primary"
     btn_label: "Følg oss"  
-  - image_path: /assets/images/spillere.jpg
+  - image_path: /assets/images/superheroteaching.png
     alt: "customizable"
-    title: "Abonner på Under Kappa"
-    excerpt: "Fra jerver til edderkopper, fra kvantefysikk til økologi. Vi finnes på alle platformer: apple podcast, spotify, youtube, og din mors gamle, støvete grammofon."
-    url: "https://underkappa.buzzsprout.com/"
+    title: "Bruk oss i undervisningen"
+    excerpt: "Vi elsker å høre at superhelter og/eller podcasten vår blir brukt i undervisning. Her er noen forslag til hvordan du kan bruke Under Kappa i undervisningen."
+    url: "/undervisning/"
     btn_class: "btn--primary"
-    btn_label: "Abonner på podcasten"
+    btn_label: "Bruk oss"
   - image_path: /assets/images/rangering.png
     alt: "fully responsive"
     title: "Rangering"

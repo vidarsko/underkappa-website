@@ -10,13 +10,14 @@ author_profile: true
 .responsive-iframe {
     position: relative;
     overflow: hidden;
-    padding-top: 65%; /* Adjust the padding-top value based on the iframe's aspect ratio (height/width*100) */
+    height: 1000px; /* Set the desired height for the responsive iframe */
 }
 .responsive-iframe iframe {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
+    height: 100%; /* Make the iframe fill the parent container */
 }
 </style>
 
@@ -25,5 +26,6 @@ author_profile: true
 Totalen, summen, den ultimate scoren! KAPPE står for Kul, Atypisk, Plausibel, Praktisk og Ekstraordinær. De fem kriteriene som en superhelt må treffe for å være den ultimate.
 (I episode 1-6 manglet kategorien "Atypisk." Poengene som ble gitt i disse episodene har blitt skalert ned til 0-20).
 
-<iframe src="/assets/charts/total.html" width="100%" height="1000" frameborder="0"></iframe>
-
+<div class="responsive-iframe">
+    <iframe src="/assets/charts/total.html" frameborder="0"></iframe>
+</div>

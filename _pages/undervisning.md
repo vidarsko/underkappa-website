@@ -24,11 +24,11 @@ Superhelter er en morsom arena å øve på slike estimeringer, og vi har ofte gj
 Under er en liste med Fermiproblemer som vi har angrepet i podcasten vår.
 Som en oppgave i undervisningen, kan dere f.eks. først prøve å løse problemet selv, og deretter høre på episoden (i parantes) hvor vi presenterer vår løsning.
 
-- Hvor sterkt er [Spider-mans](https://youtu.be/FgE0dL17Fnc?si=I_sOOOOBqyTyPb0T) nett? (Episode 1)
+### Hvor sterkt er [Spider-mans](https://youtu.be/FgE0dL17Fnc?si=I_sOOOOBqyTyPb0T) nett? (Episode 1)
 
 <iframe width="200" height="100" src="https://www.youtube.com/embed/FgE0dL17Fnc?si=JPuu7l0DRB0rVUga" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Løsning
+#### Løsning
 
 For å estimere det, la oss ta utgangspunkt i at Spider-man skal fange en fallende bil på 2 tonn.
 Dersom bilen har falt $s=10 \textrm m$, har den fått en fart på
@@ -52,15 +52,15 @@ $$
 
 Så styrken til Spider-mans nett må være på over 10 000 MPa, 10 ganger sterkere enn edderkoppsilke. 
 
-- Hvor sterk er [Hulken](https://www.youtube.com/watch?v=jolXso_OO-c)? (Episode 7)
+### Hvor sterk er [Hulken](https://www.youtube.com/watch?v=jolXso_OO-c)? (Episode 7)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jolXso_OO-c?si=3oZ_TkD48URiNujE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Hvor kraftig er et slag fra [Scorpions](https://www.youtube.com/watch?v=eo_VSTuxCDI&pp=ygUSU2NvcnBpb24gc3BpZGVybWFu) hale? (Episode 11)
+### Hvor kraftig er et slag fra [Scorpions](https://www.youtube.com/watch?v=eo_VSTuxCDI&pp=ygUSU2NvcnBpb24gc3BpZGVybWFu) hale? (Episode 11)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eo_VSTuxCDI?si=klSWOeDJpon5wJpy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Hvor raskt må [Julenissen](https://www.youtube.com/watch?v=rj7Ofm9xdqU&pp=ygUTc2FudGEgY2xhdXMgcmlkaW5naA%3D%3D) reise rundt for å levere alle julegavene på én natt? (Episode 20)
+### Hvor raskt må [Julenissen](https://www.youtube.com/watch?v=rj7Ofm9xdqU&pp=ygUTc2FudGEgY2xhdXMgcmlkaW5naA%3D%3D) reise rundt for å levere alle julegavene på én natt? (Episode 20)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rj7Ofm9xdqU?si=UtN-GMJE1cPlvwrm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -70,7 +70,7 @@ Så styrken til Spider-mans nett må være på over 10 000 MPa, 10 ganger sterke
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x0CJKvevs2M?si=u48PVyX6xOwDnGK7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Gitt at [Påskeharen](https://www.youtube.com/watch?v=AtC3RikdK8U&pp=ygUQVGhlIGVhc3RlciBidW5ueQ%3D%3D) ansetter folk folk for å produsere og distribuere påskeegg, hvor mange ansatte trenger han? (Episode 26)
+### Gitt at [Påskeharen](https://www.youtube.com/watch?v=AtC3RikdK8U&pp=ygUQVGhlIGVhc3RlciBidW5ueQ%3D%3D) ansetter folk folk for å produsere og distribuere påskeegg, hvor mange ansatte trenger han? (Episode 26)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AtC3RikdK8U?si=7ejhL77QQMm-KCpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

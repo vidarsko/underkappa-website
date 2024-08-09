@@ -230,41 +230,47 @@ Dersom noen av elevene gjør en spesielt god jobb, er vi veldig interessert i h�
 
 Løsningene på disse utforskingsproblemene finnes i podcasten.
 
-- Hvordan klarer [Ant-man](https://youtu.be/pWdKf3MneyI?si=NZ2QjnELmpwX5ds-) å krympe slik han gjør? (Episode 2)
+### Hvordan klarer [Ant-man](https://youtu.be/pWdKf3MneyI?si=NZ2QjnELmpwX5ds-) å krympe slik han gjør? (Episode 2)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pWdKf3MneyI?si=GasP5NfVXRx5kjFX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Hvordan klarer [Captain America](https://www.youtube.com/watch?v=hLUdF8cjzyA)s skjold å absorbere kinetisk energi for så å levere det ut igjen? (Episode 9) 
+### Hvordan klarer [Captain America](https://www.youtube.com/watch?v=hLUdF8cjzyA)s skjold å absorbere kinetisk energi for så å levere det ut igjen? (Episode 9) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hLUdF8cjzyA?si=9rvT6baRIP1G2jPj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Hvordan klarer [Hell Cow](https://www.youtube.com/watch?v=JCLtXbX_BpY) å bli omgjort til støv også dukke opp igjen fra tilsynelatende intet? (Episode 13)
+### Hvordan klarer [Hell Cow](https://www.youtube.com/watch?v=JCLtXbX_BpY) å bli omgjort til støv også dukke opp igjen fra tilsynelatende intet? (Episode 13)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JCLtXbX_BpY?si=xoZso3gM_iChC2ft" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Hva slags bergart er [The Thing](https://www.youtube.com/watch?v=RQoZ6nmMPgM) lagd av? (Episode 15)
+### Hva slags bergart er [The Thing](https://www.youtube.com/watch?v=RQoZ6nmMPgM) lagd av? (Episode 15)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RQoZ6nmMPgM?si=8607OzPY2Fvrber-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Hva er lassoen til [Wonder Woman](https://www.youtube.com/watch?v=czdGc5ADNfU) lagd av? (Episode 21)
+### Hva er lassoen til [Wonder Woman](https://www.youtube.com/watch?v=czdGc5ADNfU) lagd av? (Episode 21)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/czdGc5ADNfU?si=9CWKk9iq4teV7vUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Hva er adamantiumet i [Wolverine](https://www.youtube.com/watch?v=-sqio1tiPGk)s skjelett laget av? (Episode 22)
+### Hva er adamantiumet i [Wolverine](https://www.youtube.com/watch?v=-sqio1tiPGk)s skjelett laget av? (Episode 22)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-sqio1tiPGk?si=iySQ7anijoV6_oAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Hvilket grunnstoff er det [Iron Man](https://youtu.be/Ddk9ci6geSs?si=ejvox8mLFCsSF5vR) oppdager i dette klippet? (Episode 24)
+### Hvilket grunnstoff er det [Iron Man](https://youtu.be/Ddk9ci6geSs?si=ejvox8mLFCsSF5vR) oppdager i dette klippet? (Episode 24)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ddk9ci6geSs?si=ejvox8mLFCsSF5vR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Finnes det en fysisk forklaring på hvordan [Professor X](https://www.youtube.com/watch?v=5_v15YvEo7A) kan kontrollere folks tanker? (Episode 28)
+### Finnes det en fysisk forklaring på hvordan [Professor X](https://www.youtube.com/watch?v=5_v15YvEo7A) kan kontrollere folks tanker? (Episode 28)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5_v15YvEo7A?si=KXz9vSyOxGlJDOwS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 ## Laqe podcast-episode
 
 Elevene kan også lage sin egen podcast, hvor de velger seg en superhelt og diskuterer ulike faglige aspekter ved den.
+
+F.eks.:
+* Gå sammen 2 og 2
+* Velg to fag, f.eks., fysikk og kjemi
+* Time 1: lytt til en episode "Under Kappa"
+* Time 2 (fagdag?): Lag en episode hvor dere er programledere
+
 Bruk gjerne [våre lyder og musikk](https://www.dropbox.com/scl/fo/d2pft1lm1sbkv4h1hmpq0/AAx01gEwIIeZfgHxGdnDTqA?rlkey=rliccxypxzg5d3f8us44bpiso&dl=0), og send oss gjerne episodene om de blir bra!
 Hvem vet, kanskje vi kan slippe en spesialepisode laget av noen av deres elever?

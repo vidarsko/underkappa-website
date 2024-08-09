@@ -8,6 +8,7 @@ toc: true
 toc_label: "Contents"
 toc_sticky: true
 toc_icon: "list"
+use_math: true
 ---
 
 # Bruk Under Kappa i undervisningen

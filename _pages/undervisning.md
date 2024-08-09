@@ -91,8 +91,6 @@ $$
 
 #### Løsning
 
-## Hvor kraftig er et slag fra Scorpions hale?
-
 Anta at halen kan modellere som en stav som svinger om en akse i den ene enden. 
 Hvis vi antar at halen har en lengde $l$ og masse $M$, kan vi beregne treghetsmomentet $I$ for halen som
 
@@ -173,7 +171,7 @@ $$
 
 Dette tilsvarer 40 billioner Newton, omtrent en million ganger kraften til en vanlig romferge under oppskyting (som genererer 10–30 millioner Newton). Dette gir et inntrykk av hvor ekstremt kraftig One Punch Man slår.
 
-### Løsning: Hvor rask er han?
+#### Løsning: Hvor rask er han?
 
 I en annen episode hopper One Punch Man til månen i løpet av noen sekunder. La oss anta at han bruker 10 sekunder på å nå månen, som er omtrent 384 400 km unna. Farten hans er da:
 
@@ -183,7 +181,7 @@ $$
 
 Dette er omtrent 38 millioner m/s, som tilsvarer ca. 13 % av lyshastigheten (lyshastigheten er ca. 300 millioner m/s). Ved slike ekstreme hastigheter vil relativistiske effekter begynne å spille inn, hvor tiden går saktere for ham, og han besitter enorme mengder kinetisk energi.
 
-### Løsning: Hvor mye tåler One Punch Man?
+#### Løsning: Hvor mye tåler One Punch Man?
 
 
 For å forstå hvor mye One Punch Man tåler, kan vi se på en av de mest ekstreme hendelsene fra serien. I en episode blir han utsatt for en stråle som er ment å fordampe hele mennesker. For å forstå hvor mye energi dette innebærer, kan vi se på hvor mye energi som kreves for å kremere en menneskekropp.

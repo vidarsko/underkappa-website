@@ -27,6 +27,10 @@ Som en oppgave i undervisningen, kan dere f.eks. først prøve å løse probleme
 
 <iframe width="200" height="100" src="https://www.youtube.com/embed/FgE0dL17Fnc?si=JPuu7l0DRB0rVUga" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+$$
+E = mc^2
+$$
+
 - Hvor sterk er [Hulken](https://www.youtube.com/watch?v=jolXso_OO-c)? (Episode 7)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jolXso_OO-c?si=3oZ_TkD48URiNujE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

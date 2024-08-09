@@ -31,23 +31,23 @@ Som en oppgave i undervisningen, kan dere f.eks. først prøve å løse probleme
 ### Løsning
 
 For å estimere det, la oss ta utgangspunkt i at Spider-man skal fange en fallende bil på 2 tonn.
-Dersom bilen har falt $s=10 \textup m$, har den fått en fart på
+Dersom bilen har falt $s=10 \textrm m$, har den fått en fart på
 
 $$
-v = \sqrt{2 g s} = 14 \textup m / \textup s
+v = \sqrt{2 g s} = 14 \textrm m / \textrm s
 $$
 
-Hvis den skal bremses opp ila. $s_2 =10 \textup m, så må kraften som nettet bremser med være på 
+Hvis den skal bremses opp ila. $s_2 =10 \textrm m, så må kraften som nettet bremser med være på 
 
 $$
-F = m a = m \frac{v^2}{2 s_2} = 19 600\textup N,
+F = m a = m \frac{v^2}{2 s_2} = 19 600\textrm N,
 $$
 
-som kommer i tillegg til bilens tyngde $G = m g = 19620 \textup N$.
-Hvis nettet har en radius på $r=1 \textup{mm}$, så betyr dettet at nettet må tåle en belastning på
+som kommer i tillegg til bilens tyngde $G = m g = 19620 \textrm N$.
+Hvis nettet har en radius på $r=1 \textrm{mm}$, så betyr dettet at nettet må tåle en belastning på
 
 $$
-P = \frac{F+G}{\pi r^2} = 12 484 \textup {MPa}.
+P = \frac{F+G}{\pi r^2} = 12 484 \textrm {MPa}.
 $$
 
 Så styrken til Spider-mans nett må være på over 10 000 MPa, 10 ganger sterkere enn edderkoppsilke. 

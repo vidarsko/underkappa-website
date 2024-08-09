@@ -37,7 +37,7 @@ $$
 v = \sqrt{2 g s} = 14 \textrm m / \textrm s
 $$
 
-Hvis den skal bremses opp ila. $s_2 =10 \textrm m, så må kraften som nettet bremser med være på 
+Hvis den skal bremses opp ila. $s_2 =10 \textrm m$, så må kraften som nettet bremser med være på 
 
 $$
 F = m a = m \frac{v^2}{2 s_2} = 19 600\textrm N,

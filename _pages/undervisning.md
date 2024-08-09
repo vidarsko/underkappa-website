@@ -9,6 +9,7 @@ toc_label: "Contents"
 toc_sticky: true
 toc_icon: "list"
 use_math: true
+toc_levels: 1-3
 ---
 
 # Bruk Under Kappa i undervisningen

@@ -9,7 +9,7 @@ toc_label: "Contents"
 toc_sticky: true
 toc_icon: "list"
 use_math: true
-toc_levels: 1-3
+h_max: 3
 ---
 
 # Bruk Under Kappa i undervisningen
@@ -205,8 +205,6 @@ Til tross for denne ekstreme energien, overlever One Punch Man uten problemer. D
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AtC3RikdK8U?si=7ejhL77QQMm-KCpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Løsning
-
-Basert på beregningene dine:
 
 - Det finnes ca. **2 milliarder barn** i verden.
 - Du anslår at **10 %** av disse barna er med på påskejakt, altså **200 millioner barn**.

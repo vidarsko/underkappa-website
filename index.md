@@ -10,7 +10,7 @@ header:
       url: "/siste-episode/"
   # text_color: "white"
 excerpt: >  
-  Podcasten som tar superkrefter på alvor. <br />
+  Vitenskapspodcasten som tar superkrefter på alvor. <br />
 feature_row:
   - image_path: /assets/images/instagram.jpg
     alt: "Instagram"

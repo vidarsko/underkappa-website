@@ -15,7 +15,7 @@ df_melted = df.melt(id_vars=["Superhelt"], value_vars=["Kul", "Atypisk", "Plausi
 # Creating the stacked bar chart
 fig = px.bar(df_melted, y="Superhelt", x="Poeng", color="Kategori", orientation="h",
              labels={"Superhelt": "Superhelt", "Poeng": "Poeng"}, 
-             height=1200, text="Poeng")
+             height=800, text="Poeng")
 
 # Improve the layout
 fig.update_layout(yaxis_categoryorder='total ascending', # This sorts the bars based on 'Total'

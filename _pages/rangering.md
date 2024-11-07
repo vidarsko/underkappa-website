@@ -13,4 +13,4 @@ Totalen, summen, den ultimate scoren! KAPPE står for Kul, Atypisk, Plausibel, P
 
 I figuren under kan du velge bort kategorier eller dobbeltklikke på en av dem for å se rangeringen for kun den kategorien.
 
-<iframe src="/assets/charts/total.html" ></iframe>
+<iframe src="/assets/charts/total.html" width="100%" height="1000px" frameborder="0"></iframe>

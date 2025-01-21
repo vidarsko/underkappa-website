@@ -57,4 +57,4 @@ for i in range(number_of_superheroes):
 
 # Show the figure
 fig.write_html("total.html")
-# fig.show()
+# fig.show()#
